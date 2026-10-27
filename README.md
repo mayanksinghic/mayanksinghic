@@ -5,6 +5,12 @@ I test AI models in English and Hindi. I write hard prompts, rate and rank respo
 
 📍 Bangalore, India (Remote) · 📧 mayanksinghic@gmail.com
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-singh-a0a727246)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=googlechrome&logoColor=white)](https://claude.ai/artifact/JXRFSPxP4r4W52KoMyuieu)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=2dLtSw4AAAAJ)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayanksinghic@gmail.com)
+[![Open to work](https://img.shields.io/badge/Open%20to-AI%20Evaluation%20%7C%20Data%20Analyst%20roles-2ea44f?style=flat)](#find-me)
+
 ---
 
 ## What I do
@@ -42,6 +48,28 @@ I test AI models in English and Hindi. I write hard prompts, rate and rank respo
 **Data:** Snowflake, dbt, PostgreSQL, MongoDB, Tableau, Power BI, Excel
 
 **Tools:** Git, Linux, VS Code, Jupyter, Oracle Cloud, Salesforce, ServiceNow
+
+## Tech I use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## GitHub stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mayanksinghic&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksinghic&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
 ## Education
 
